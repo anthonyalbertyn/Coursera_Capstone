@@ -4,7 +4,7 @@ Author: Anthony Albertyn
 
 ## How to view the Notebook online
 
-- Copy this url: https://github.com/anthonyalbertyn/Coursera_Capstone/blob/main/capstone-anthony-albertyn.ipynb
+- Copy this url: https://github.com/anthonyalbertyn/Coursera_Capstone/blob/main/IBM-Data-Science-Capstone-Project-Anthony-Albertyn.ipynb
 
 - Visit: https://nbviewer.jupyter.org/
 
